@@ -1,0 +1,7 @@
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.csprojAssemblyReference.cache
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.exe
+C:\Users\Pranav\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.pdb
